@@ -9,7 +9,7 @@ permalink: /
 
 erleww!!
 
-<img url(assets/bedroom.png)>
+<img src="https://pbs.twimg.com/profile_banners/3090091229/1677104303/600x200">
 
 <strong>Recently updated notes</strong>
 
