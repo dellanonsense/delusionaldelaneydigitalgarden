@@ -6,5 +6,9 @@ permalink: /about
 
 *della or delaney jayne*
 
-<a class="https://dellanonsense.carrd.co/">carrd</a>
-<a class="https://twitter.com/dellanonsense">twitter</a>
+hello! I'm a 22 year old child of the internet who wants to try everything and anything, making my mark in as many places as possible. this is one of them!
+
+my online username is (typically) # dellanonsene
+
+<a href="https://dellanonsense.carrd.co/">carrd</a>
+<a href="https://twitter.com/dellanonsense">twitter</a>
