@@ -5,9 +5,11 @@ id: home
 permalink: /
 ---
 
-# Welcome! 
+# welcome, sweetheart, to the trainwreck 
 
 erleww!!
+
+<img url(assets/bedroom.png)>
 
 <strong>Recently updated notes</strong>
 

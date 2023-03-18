@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*della or delaney jayne*
 
-Feel free to tell the world about what you love! 😍
+<a class="https://dellanonsense.carrd.co/">carrd</a>
+<a class="https://twitter.com/dellanonsense">twitter</a>
